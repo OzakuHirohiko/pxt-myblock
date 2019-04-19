@@ -2,6 +2,7 @@
     "name": "pxt-myblock",
     "version": "0.0.1",
     "description": "",
+    "icon": "icon.png",
     "dependencies": {
         "core": "*",
         "radio": "*"
